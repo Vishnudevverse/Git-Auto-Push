@@ -34,7 +34,7 @@ A handy Windows CMD batch script to streamline your Git workflow: initialize, co
 - In Visual Studio Code:
   - Open your project
   - Open terminal (Ctrl + `)
-  - type `gitautopush` and press enter
+  - type `gitautopush`and press enter
 
 ---
 
