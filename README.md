@@ -33,7 +33,7 @@ A handy Windows CMD batch script to streamline your Git workflow: initialize, co
 - Add that folder to your system's PATH
 - In Visual Studio Code:
   - Open your project
-  - Open terminal (Ctrl + `)
+  - Open terminal (Ctrl + ` )
   - type `gitautopush` and press enter
 
 ---
