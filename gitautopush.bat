@@ -118,7 +118,7 @@ echo ^|  - Requires Windows CMD (no admin).                      ^|
 echo ^|  - Copy this .bat into your seprate folder.              ^|
 echo ^|  - Add that folder to your PATH.                         ^|
 echo ^|  - In VS Code, open your project                         ^|
-echo ^|  -open terminal (Ctrl+`). Run `gitautopush`.             ^|
+echo ^|  - Open terminal (Ctrl+`). Run `gitautopush`.            ^|
 echo +----------------------------------------------------------+
 echo.
 pause
